@@ -12,46 +12,10 @@
     "img": "https://stat5.bollywoodhungama.in/wp-content/uploads/2025/08/Jatadhara-3.jpg"
   },
   {
-    "name": "De De Pyaar De 2",
-    "type": "Hindi Movies",
-    "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20329",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt6mUM-Gi7GhC8uD7BP2D75iao3WupXSCLvbZen5GcOw&s=10"
-  },
-  {
-    "name": "Baaghi 4",
-    "type": "Hindi Movies",
-    "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20096",
-    "img": "https://cds1.discoveryftp.net/Movies/Hindi/2025/Baaghi%204/poster.jpg"
-  },
-  {
-    "name": "Kis Kis ko Pyaar karoon 2",
-    "type": "Hindi Movies",
-    "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20454",
-    "img": "https://bahrain.cineco.net/wp-content/uploads/2025/12/KIS-KISKO-PYAAR-KAROON-2-3.jpg  "
-  },
-  {
-    "name": "Tu Meri Main Tera Main Tera Tu Meri",
-    "type": "Hindi Movies",
-    "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20493",
-    "img": "https://m.media-amazon.com/images/M/MV5BMDdiY2EzZjAtY2YxNC00Yjg2LTliNzEtOGNjYTk5YmU4YzA0XkEyXkFqcGc@._V1_.jpg"
-  },
-  {
-    "name": "Rahu Ketu",
-    "type": "Hindi Movies",
-    "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20564",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
     "name": "Border 2",
     "type": "Hindi Movies",
     "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20565",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
-    "name": "Masti 4",
-    "type": "Hindi Movies",
-    "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20364",
-    "img": "https://media5.bollywoodhungama.in/wp-content/uploads/2024/01/Mastiii4.jpeg"
   },
   {
     "name": "Tere Ishk Mein",
@@ -60,16 +24,52 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWJrRSqR_E6efhpDAhpmKrxqUT-VA4Px1A96X8AxnImgJzLCjIbYizRXxJ&s=10"
   },
   {
-    "name": "The Girlfriend",
+    "name": "Tu Meri Main Tera Main Tera Tu Meri",
     "type": "Hindi Movies",
-    "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20332",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ38796NBC_mg9Kp0E6A_YNCuRIBf4VR2rcMlOJ8YUXvyG49Lqk9GjH2Io&s=10"
+    "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20493",
+    "img": "https://m.media-amazon.com/images/M/MV5BMDdiY2EzZjAtY2YxNC00Yjg2LTliNzEtOGNjYTk5YmU4YzA0XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Baaghi 4",
+    "type": "Hindi Movies",
+    "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20096",
+    "img": "https://cds1.discoveryftp.net/Movies/Hindi/2025/Baaghi%204/poster.jpg"
   },
   {
     "name": "Dhurandar",
     "type": "Hindi Movies",
     "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20417",
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Dhurandhar_poster.jpg/250px-Dhurandhar_poster.jpg"
+  },
+  {
+    "name": "Masti 4",
+    "type": "Hindi Movies",
+    "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20364",
+    "img": "https://media5.bollywoodhungama.in/wp-content/uploads/2024/01/Mastiii4.jpeg"
+  },
+  {
+    "name": "The Girlfriend",
+    "type": "Hindi Movies",
+    "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20332",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ38796NBC_mg9Kp0E6A_YNCuRIBf4VR2rcMlOJ8YUXvyG49Lqk9GjH2Io&s=10"
+  },
+  {
+    "name": "De De Pyaar De 2",
+    "type": "Hindi Movies",
+    "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20329",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt6mUM-Gi7GhC8uD7BP2D75iao3WupXSCLvbZen5GcOw&s=10"
+  },
+  {
+    "name": "Kis Kis ko Pyaar karoon 2",
+    "type": "Hindi Movies",
+    "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20454",
+    "img": "https://bahrain.cineco.net/wp-content/uploads/2025/12/KIS-KISKO-PYAAR-KAROON-2-3.jpg  "
+  },
+  {
+    "name": "Rahu Ketu",
+    "type": "Hindi Movies",
+    "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20564",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
     "name": "Akhanda 2",
@@ -82,12 +82,6 @@
     "type": "Southindian Hindi Dubbed Movies",
     "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20299",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwHCAxxdjgrfEi_2alBSedS7UwQ_IFz39oUzzCoH3qS0oomLkv7kPCv5X5&s=10"
-  },
-  {
-    "name": "Noor",
-    "type": "Bangla Movies",
-    "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20461",
-    "img": "https://bmdb.com.bd/wp-content/uploads/2023/05/noor.jpg"
   },
   {
     "name": "Neel Chakra",
@@ -108,15 +102,27 @@
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
-    "name": "Episode 1 - Gyaarah Gyaarah",
-    "type": "Web Series",
-    "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19586",
-    "img": "https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg"
+    "name": "Noor",
+    "type": "Bangla Movies",
+    "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20461",
+    "img": "https://bmdb.com.bd/wp-content/uploads/2023/05/noor.jpg"
   },
   {
     "name": "Episode 3 - Gyaarah Gyaarah",
     "type": "Web Series",
     "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19588",
+    "img": "https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg"
+  },
+  {
+    "name": "Episode 5 - Gyaarah Gyaarah",
+    "type": "Web Series",
+    "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19590",
+    "img": "https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg"
+  },
+  {
+    "name": "Episode 7 - Gyaarah Gyaarah",
+    "type": "Web Series",
+    "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19592",
     "img": "https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg"
   },
   {
@@ -126,9 +132,9 @@
     "img": "https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg"
   },
   {
-    "name": "Episode 8 - Gyaarah Gyaarah",
+    "name": "Episode 1 - Gyaarah Gyaarah",
     "type": "Web Series",
-    "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19593",
+    "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19586",
     "img": "https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg"
   },
   {
@@ -144,15 +150,9 @@
     "img": "https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg"
   },
   {
-    "name": "Episode 7 - Gyaarah Gyaarah",
+    "name": "Episode 8 - Gyaarah Gyaarah",
     "type": "Web Series",
-    "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19592",
-    "img": "https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg"
-  },
-  {
-    "name": "Episode 5 - Gyaarah Gyaarah",
-    "type": "Web Series",
-    "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19590",
+    "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19593",
     "img": "https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg"
   },
   {
@@ -180,10 +180,10 @@
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
-    "name": "Sun Bangla",
+    "name": "Sangeet Bangla",
     "type": "Live Tv",
-    "url": "http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy7xlHSdOyYb2vpgqEg5szjn_yNHhCbseLnw&s"
+    "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8",
+    "img": "https://svf.in/wp-content/uploads/2019/04/sangeet-bangla.jpg"
   },
   {
     "name": "Star Jalsha",
@@ -198,22 +198,16 @@
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
-    "name": "Sangeet Bangla",
+    "name": "Sun Bangla",
     "type": "Live Tv",
-    "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8",
-    "img": "https://svf.in/wp-content/uploads/2019/04/sangeet-bangla.jpg"
+    "url": "http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy7xlHSdOyYb2vpgqEg5szjn_yNHhCbseLnw&s"
   },
   {
-    "name": "Colors",
+    "name": "PTV Sports",
     "type": "Live Tv",
-    "url": "http://103.140.254.2:3500/live/144.m3u8",
-    "img": "https://static.wikia.nocookie.net/logopedia/images/6/63/Colors_HD.svg/revision/latest/scale-to-width-down/250?cb=20210207143514"
-  },
-  {
-    "name": "Doreamon",
-    "type": "Live Tv",
-    "url": "https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+    "url": "http://filex.me:8080/live/444476/444476/453434.m3u8",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHnj7BX8yGPS5qGWeme3Q_1uD_h7iSFmk03g&s"
   },
   {
     "name": "Motu Patlu",
@@ -222,10 +216,10 @@
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
-    "name": "PTV Sports",
+    "name": "Doreamon",
     "type": "Live Tv",
-    "url": "http://filex.me:8080/live/444476/444476/453434.m3u8",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHnj7BX8yGPS5qGWeme3Q_1uD_h7iSFmk03g&s"
+    "url": "https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
     "name": "Channel 198",
@@ -270,12 +264,6 @@
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
-    "name": "Channel 18",
-    "type": "Live Tv",
-    "url": "http://103.175.73.12:8080/live/18/18_0.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
     "name": "Channel 19",
     "type": "Live Tv",
     "url": "http://103.175.73.12:8080/live/19/19_0.m3u8",
@@ -288,15 +276,21 @@
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
-    "name": "Channel 23",
-    "type": "Live Tv",
-    "url": "http://103.175.73.12:8080/live/23/23_0.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
     "name": "Channel 25",
     "type": "Live Tv",
     "url": "http://103.175.73.12:8080/live/25/25_0.m3u8",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "Channel 18",
+    "type": "Live Tv",
+    "url": "http://103.175.73.12:8080/live/18/18_0.m3u8",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "Channel 23",
+    "type": "Live Tv",
+    "url": "http://103.175.73.12:8080/live/23/23_0.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
@@ -312,15 +306,15 @@
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
-    "name": "Channel 270",
-    "type": "Live Tv",
-    "url": "http://103.175.73.12:8080/live/270/270_0.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
     "name": "Channel 271",
     "type": "Live Tv",
     "url": "http://103.175.73.12:8080/live/271/271_0.m3u8",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "Channel 270",
+    "type": "Live Tv",
+    "url": "http://103.175.73.12:8080/live/270/270_0.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
@@ -360,27 +354,15 @@
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
-    "name": "Channel 156",
-    "type": "Live Tv",
-    "url": "http://103.175.73.12:8080/live/156/156_0.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
-    "name": "Channel 157",
-    "type": "Live Tv",
-    "url": "http://103.175.73.12:8080/live/157/157_0.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
     "name": "Channel 158",
     "type": "Live Tv",
     "url": "http://103.175.73.12:8080/live/158/158_0.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
-    "name": "Channel 51",
+    "name": "Channel 156",
     "type": "Live Tv",
-    "url": "http://103.175.73.12:8080/live/51/51_0.m3u8",
+    "url": "http://103.175.73.12:8080/live/156/156_0.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
@@ -390,21 +372,33 @@
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
+    "name": "Channel 157",
+    "type": "Live Tv",
+    "url": "http://103.175.73.12:8080/live/157/157_0.m3u8",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
     "name": "Channel 161",
     "type": "Live Tv",
     "url": "http://103.175.73.12:8080/live/161/161_0.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
-    "name": "Channel 52",
+    "name": "Channel 51",
     "type": "Live Tv",
-    "url": "http://103.175.73.12:8080/live/52/52_0.m3u8",
+    "url": "http://103.175.73.12:8080/live/51/51_0.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
     "name": "Channel 53",
     "type": "Live Tv",
     "url": "http://103.175.73.12:8080/live/53/53_0.m3u8",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "Channel 52",
+    "type": "Live Tv",
+    "url": "http://103.175.73.12:8080/live/52/52_0.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
@@ -432,27 +426,27 @@
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
-    "name": "Channel 174",
-    "type": "Live Tv",
-    "url": "http://103.175.73.12:8080/live/174/174_0.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
-    "name": "Channel 175",
-    "type": "Live Tv",
-    "url": "http://103.175.73.12:8080/live/175/175_0.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
     "name": "Channel 178",
     "type": "Live Tv",
     "url": "http://103.175.73.12:8080/live/178/178_0.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
+    "name": "Channel 174",
+    "type": "Live Tv",
+    "url": "http://103.175.73.12:8080/live/174/174_0.m3u8",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
     "name": "Channel 176",
     "type": "Live Tv",
     "url": "http://103.175.73.12:8080/live/176/176_0.m3u8",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "Channel 175",
+    "type": "Live Tv",
+    "url": "http://103.175.73.12:8080/live/175/175_0.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
@@ -498,15 +492,15 @@
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
-    "name": "Channel 257",
-    "type": "Live Tv",
-    "url": "http://103.175.73.12:8080/live/257/257_0.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
     "name": "Channel 258",
     "type": "Live Tv",
     "url": "http://103.175.73.12:8080/live/258/258_0.m3u8",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "Channel 257",
+    "type": "Live Tv",
+    "url": "http://103.175.73.12:8080/live/257/257_0.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
@@ -540,21 +534,27 @@
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
-    "name": "Channel 349",
-    "type": "Live Tv",
-    "url": "http://103.175.73.12:8080/live/349/349_0.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
     "name": "Channel 352",
     "type": "Live Tv",
     "url": "http://103.175.73.12:8080/live/352/352_0.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
+    "name": "Channel 349",
+    "type": "Live Tv",
+    "url": "http://103.175.73.12:8080/live/349/349_0.m3u8",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
     "name": "Channel 354",
     "type": "Live Tv",
     "url": "http://103.175.73.12:8080/live/354/354_0.m3u8",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "Channel 368",
+    "type": "Live Tv",
+    "url": "http://103.175.73.12:8080/live/368/368_0.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
@@ -582,15 +582,15 @@
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
-    "name": "Channel 437",
-    "type": "Live Tv",
-    "url": "http://103.175.73.12:8080/live/437/437_0.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
     "name": "Channel 469",
     "type": "Live Tv",
     "url": "http://103.175.73.12:8080/live/469/469_0.m3u8",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "Channel 437",
+    "type": "Live Tv",
+    "url": "http://103.175.73.12:8080/live/437/437_0.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
@@ -612,12 +612,6 @@
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
-    "name": "Channel 640",
-    "type": "Live Tv",
-    "url": "http://103.175.73.12:8080/live/640/640_0.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
     "name": "Channel 648",
     "type": "Live Tv",
     "url": "http://103.175.73.12:8080/live/648/648_0.m3u8",
@@ -630,27 +624,33 @@
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
-    "name": "Channel 660",
-    "type": "Live Tv",
-    "url": "http://103.175.73.12:8080/live/660/660_0.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
     "name": "Channel 664",
     "type": "Live Tv",
     "url": "http://103.175.73.12:8080/live/664/664_0.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
-    "name": "Channel 673",
+    "name": "Channel 660",
     "type": "Live Tv",
-    "url": "http://103.175.73.12:8080/live/673/673_0.m3u8",
+    "url": "http://103.175.73.12:8080/live/660/660_0.m3u8",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "Channel 640",
+    "type": "Live Tv",
+    "url": "http://103.175.73.12:8080/live/640/640_0.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
     "name": "Channel 688",
     "type": "Live Tv",
     "url": "http://103.175.73.12:8080/live/688/688_0.m3u8",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "Channel 673",
+    "type": "Live Tv",
+    "url": "http://103.175.73.12:8080/live/673/673_0.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
