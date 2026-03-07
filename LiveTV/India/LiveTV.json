@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-07 14:11:30",
+  "date": "2026-03-07 22:08:17",
   "channels": {
     "Promo": [
       {
@@ -262,13 +262,6 @@
         "group": "Kolkata Bangla Movies",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8"
-      },
-      {
-        "name": "ZB Cinema",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Kolkata Bangla Movies",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8"
       }
     ],
     "Kolkata Bangla Music": [
@@ -483,13 +476,6 @@
       }
     ],
     "Sports": [
-      {
-        "name": "Star Sports 1 HD",
-        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://41.205.93.154/STARSPORTS1/index.m3u8"
-      },
       {
         "name": "Sony Sports Ten 2 HD",
         "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png",
@@ -1103,13 +1089,6 @@
         "url": "http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8"
       },
       {
-        "name": "T Sports T20 📺",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Cricket 🏏",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://aynaott.unosottor.workers.dev/bpk-tv/tsportshd.m3u8"
-      },
-      {
         "name": "Sky Sport Mian Event",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Cricket 🏏",
@@ -1180,13 +1159,6 @@
         "group": "Football",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "http://107.175.220.4:11799/go_assp1/playlist.m3u8"
-      },
-      {
-        "name": "ASTRO SPORTS PLUS",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Football",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://107.175.220.4:11799/go_sportsplus/playlist.m3u8"
       },
       {
         "name": "MuxIP-SportsFirst TV🎯",

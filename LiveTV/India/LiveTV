@@ -210,12 +210,6 @@
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
-    "name": "ZB Cinema",
-    "type": "Kolkata Bangla Movies",
-    "url": "https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
     "name": "Dhoom Music",
     "type": "Kolkata Bangla Music",
     "url": "http://103.175.73.12:8080/live/378/378_0.m3u8",
@@ -388,12 +382,6 @@
     "type": "Hindi Movies",
     "url": "http://103.175.73.12:8080/live/19/19_0.m3u8",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s"
-  },
-  {
-    "name": "Star Sports 1 HD",
-    "type": "Sports",
-    "url": "http://41.205.93.154/STARSPORTS1/index.m3u8",
-    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"
   },
   {
     "name": "Sony Sports Ten 2 HD",
@@ -900,12 +888,6 @@
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
-    "name": "T Sports T20 📺",
-    "type": "Cricket 🏏",
-    "url": "https://aynaott.unosottor.workers.dev/bpk-tv/tsportshd.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
     "name": "Sky Sport Mian Event",
     "type": "Cricket 🏏",
     "url": "https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https",
@@ -963,12 +945,6 @@
     "name": "Astro SPORTS Primier",
     "type": "Football",
     "url": "http://107.175.220.4:11799/go_assp1/playlist.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
-    "name": "ASTRO SPORTS PLUS",
-    "type": "Football",
-    "url": "http://107.175.220.4:11799/go_sportsplus/playlist.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
